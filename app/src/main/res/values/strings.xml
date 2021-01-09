@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ATM Consultoria</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">ATM Consultoria</string>
+    <string name="nav_header_subtitle">atendimento@atmConsultoria.com.br</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Serviços</string>
+    <string name="menu_clientes">Clientes</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="group_contato">Entre em contato</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_clientes">Em mais de 15 anos de existencia a ATM acumula experiencia em serviços de consultoria a empresas nacionais e multinacionais de diversos portes, tendo atendido mais de 1000 empresas desde sua abertura.</string>
+    <string name="texto_servicos">O Planejamento Estratégico é um processo gerencial que tem como objetivo nortear o foco da empresa. A partir do entendimento do ambiente interno e externo à organização define-se o rumo da empresa para que ela planeje suas ações de forma estratégica e evite riscos. A criação de objetivos e metas é imprescindível para que a organização possa mensurar e acompanhar seu desempenho e tomar ações em cima do mesmo, gerando assim resultados mais eficazes e com maior qualidade frente às demandas dos clientes.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
